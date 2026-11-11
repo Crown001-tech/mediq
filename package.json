@@ -1,27 +1,16 @@
 {
-  "name": "mediq",
-  "version": "0.1.0",
+  "name": "mediq-monorepo",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
-  },
-  "dependencies": {
-    "@supabase/supabase-js": "^2.112.4",
-    "next": "16.3.3",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.3.3",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "dev": "npm run dev --prefix FRONTEND",
+    "dev:frontend": "npm run dev --prefix FRONTEND",
+    "dev:backend": "npm run dev --prefix BACKEND",
+    "build:frontend": "npm run build --prefix FRONTEND",
+    "build:backend": "npm run build --prefix BACKEND",
+    "build": "npm run build:backend && npm run build:frontend",
+    "start:frontend": "npm start --prefix FRONTEND",
+    "start:backend": "npm start --prefix BACKEND",
+    "lint": "npm run lint --prefix FRONTEND"
   }
 }

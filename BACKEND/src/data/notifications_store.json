@@ -1,0 +1,281 @@
+[
+  {
+    "id": "notif_1790249432833_s46hb",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Samuel Akindayo reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": false,
+    "created_at": "2026-09-24T11:30:32.833Z"
+  },
+  {
+    "id": "notif_1790249398457_kn8j4",
+    "user_id": "d4f6019c-5e94-4807-b7cd-ebf5e0e2ce60",
+    "title": "New Patient Reply",
+    "message": "Goodness Akpu replied to clinical case #d3ca2f62",
+    "type": "case_reply",
+    "read": true,
+    "created_at": "2026-09-24T11:29:58.457Z"
+  },
+  {
+    "id": "notif_1790249366030_4oa63",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Samuel Akindayo reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-24T11:29:26.030Z"
+  },
+  {
+    "id": "notif_1790248378470_2m8xn",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "Security Audit Test",
+    "message": "Testing server relay notification dispatch",
+    "type": "test",
+    "read": false,
+    "created_at": "2026-09-24T11:12:58.470Z"
+  },
+  {
+    "id": "notif_1790194217618_pyqlv",
+    "user_id": "fde13752-5284-425d-86a2-d71b57be1b3b",
+    "title": "Case Resolved & Closed",
+    "message": "Dr. Oladele Precious marked case #a205b652 as solved. The message thread is now closed.",
+    "type": "case_resolved",
+    "read": true,
+    "created_at": "2026-09-23T20:10:17.618Z"
+  },
+  {
+    "id": "notif_1790194191376_mzg1v",
+    "user_id": "98ac40bb-793b-4b8b-88dd-558d768bc443",
+    "title": "New Patient Reply",
+    "message": "Oba Josiah replied to clinical case #a205b652",
+    "type": "case_reply",
+    "read": true,
+    "created_at": "2026-09-23T20:09:51.376Z"
+  },
+  {
+    "id": "notif_1790194165802_qqjuj",
+    "user_id": "fde13752-5284-425d-86a2-d71b57be1b3b",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Oladele Precious reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-23T20:09:25.802Z"
+  },
+  {
+    "id": "notif_1790194022702_soxgz",
+    "user_id": "98ac40bb-793b-4b8b-88dd-558d768bc443",
+    "title": "New Patient Reply",
+    "message": "Oba Josiah replied to clinical case #a205b652",
+    "type": "case_reply",
+    "read": true,
+    "created_at": "2026-09-23T20:07:02.702Z"
+  },
+  {
+    "id": "notif_1790193995626_plh6x",
+    "user_id": "fde13752-5284-425d-86a2-d71b57be1b3b",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Oladele Precious reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-23T20:06:35.626Z"
+  },
+  {
+    "id": "notif_1790193817147_1unob",
+    "user_id": "98ac40bb-793b-4b8b-88dd-558d768bc443",
+    "title": "New Patient Case Submitted",
+    "message": "Oba Josiah submitted a new follow-up note: \"[Fever & Chills] I'm not fine...\"",
+    "type": "new_case",
+    "read": true,
+    "created_at": "2026-09-23T20:03:37.147Z"
+  },
+  {
+    "id": "notif_1790193560067_4j648",
+    "user_id": "fde13752-5284-425d-86a2-d71b57be1b3b",
+    "title": "New Care Plan Prescribed",
+    "message": "Dr. Oladele Precious created a new Care Plan for you. Please check your prescribed medications and instructions.",
+    "type": "care_plan_updated",
+    "read": true,
+    "created_at": "2026-09-23T19:59:20.068Z"
+  },
+  {
+    "id": "notif_1790173384996_2oj40",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "Consultation Completed",
+    "message": "Your consultation with Dr. Samuel Akindayo has been marked complete. Check your care plan for updated recommendations.",
+    "type": "appointment",
+    "read": true,
+    "created_at": "2026-09-23T14:23:04.996Z"
+  },
+  {
+    "id": "notif_1790166999216_fe8n7",
+    "user_id": "d4f6019c-5e94-4807-b7cd-ebf5e0e2ce60",
+    "title": "New Telehealth Consultation Booked",
+    "message": "Mary Jane has booked a video consultation for Sep 24, 10:00 AM.",
+    "type": "appointment",
+    "read": true,
+    "created_at": "2026-09-23T12:36:39.216Z"
+  },
+  {
+    "id": "notif_1790166947708_y88qc",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "Consultation Completed",
+    "message": "Your consultation with Dr. Samuel Akindayo has been marked complete. Check your care plan for updated recommendations.",
+    "type": "appointment",
+    "read": true,
+    "created_at": "2026-09-23T12:35:47.708Z"
+  },
+  {
+    "id": "notif_1790166509922_s0yqq",
+    "user_id": "d4f6019c-5e94-4807-b7cd-ebf5e0e2ce60",
+    "title": "New Telehealth Consultation Booked",
+    "message": "Mary Jane has booked a video consultation for Sep 24, 03:30 PM.",
+    "type": "appointment",
+    "read": true,
+    "created_at": "2026-09-23T12:28:29.922Z"
+  },
+  {
+    "id": "notif_1790164747295_arwme",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "New Telehealth Visit Scheduled by Doctor",
+    "message": "Dr. Samuel Akindayo has scheduled a video consultation for Sep 23, 02:00 PM.",
+    "type": "appointment",
+    "read": true,
+    "created_at": "2026-09-23T11:59:07.295Z"
+  },
+  {
+    "id": "notif_1790114808574_o9lc1",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "New Telehealth Visit Scheduled by Doctor",
+    "message": "Dr. Samuel Akindayo has scheduled a video consultation for Sep 22, 10:30 AM.",
+    "type": "appointment",
+    "read": true,
+    "created_at": "2026-09-22T22:06:48.574Z"
+  },
+  {
+    "id": "notif_1790085201118_ae57n",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Samuel Akindayo reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-22T13:53:21.118Z"
+  },
+  {
+    "id": "notif_1790085149279_ziimo",
+    "user_id": "d4f6019c-5e94-4807-b7cd-ebf5e0e2ce60",
+    "title": "New Patient Case Submitted",
+    "message": "Goodness Akpu submitted a new follow-up note: \"[Pain or Headache] I'm him...\"",
+    "type": "new_case",
+    "read": true,
+    "created_at": "2026-09-22T13:52:29.279Z"
+  },
+  {
+    "id": "notif_1790083880960_ft2d5",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Care Plan Updated",
+    "message": "Dr. Samuel Akindayo updated your Care Plan and prescriptions. Please review your updated medications and schedule.",
+    "type": "care_plan_updated",
+    "read": true,
+    "created_at": "2026-09-22T13:31:20.960Z"
+  },
+  {
+    "id": "notif_1790083763658_qh1cr",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": null,
+    "message": "Your attending physician has been updated to Dr. Samuel Akindayo. Handover notes: I know him like a friend",
+    "type": "system",
+    "read": true,
+    "created_at": "2026-09-22T13:29:23.658Z"
+  },
+  {
+    "id": "notif_1790083763367_1g5l7",
+    "user_id": "d4f6019c-5e94-4807-b7cd-ebf5e0e2ce60",
+    "title": null,
+    "message": "Patient Goodness Akpu has been assigned to your clinical roster from Dr. Oladele Precious. Handover notes: I know him like a friend",
+    "type": "assignment",
+    "read": true,
+    "created_at": "2026-09-22T13:29:23.368Z"
+  },
+  {
+    "id": "notif_1790083762769_p9dth",
+    "user_id": "98ac40bb-793b-4b8b-88dd-558d768bc443",
+    "title": null,
+    "message": "Patient Goodness Akpu has been reassigned to Dr. Samuel Akindayo. Handover notes: I know him like a friend",
+    "type": "handover",
+    "read": true,
+    "created_at": "2026-09-22T13:29:22.769Z"
+  },
+  {
+    "id": "notif_1790074100225_t94nl",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "Case Resolved & Closed",
+    "message": "Dr. Samuel Akindayo marked case #90c3cf26 as solved. The message thread is now closed.",
+    "type": "case_resolved",
+    "read": true,
+    "created_at": "2026-09-22T10:48:20.226Z"
+  },
+  {
+    "id": "notif_1790068128097_oxo8u",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Samuel Akindayo reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-22T09:08:48.097Z"
+  },
+  {
+    "id": "notif_1790067436095_f7tdy",
+    "user_id": "c3582d20-f315-47a9-b11f-b07ca1349a24",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Samuel Akindayo reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-22T08:57:16.095Z"
+  },
+  {
+    "id": "notif_1790030107888_ri5ss",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Case Resolved & Closed",
+    "message": "Dr. Samuel Akindayo marked case #521726ec as solved. The message thread is now closed.",
+    "type": "case_resolved",
+    "read": true,
+    "created_at": "2026-09-21T22:35:07.888Z"
+  },
+  {
+    "id": "notif_1790030084560_eh5c7",
+    "user_id": "d4f6019c-5e94-4807-b7cd-ebf5e0e2ce60",
+    "title": "New Patient Reply",
+    "message": "Goodness Akpu replied to clinical case #521726ec",
+    "type": "case_reply",
+    "read": true,
+    "created_at": "2026-09-21T22:34:44.562Z"
+  },
+  {
+    "id": "notif_1790029398326_nf386",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Case Resolved & Closed",
+    "message": "Dr. Samuel Akindayo marked case #521726ec as solved. The message thread is now closed.",
+    "type": "case_resolved",
+    "read": true,
+    "created_at": "2026-09-21T22:23:18.326Z"
+  },
+  {
+    "id": "notif_1790029387884_gxzmp",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "⚠️ Urgent: In-Person Examination Advised",
+    "message": "Dr. Samuel Akindayo advises an in-person clinic or hospital visit for physical examination.",
+    "type": "hospital_alert",
+    "read": true,
+    "created_at": "2026-09-21T22:23:07.884Z"
+  },
+  {
+    "id": "notif_1790029387440_ra5mk",
+    "user_id": "ab6be606-2ac0-454a-bf1f-7abd0b67076f",
+    "title": "Doctor Follow-Up Response",
+    "message": "Dr. Samuel Akindayo reviewed and replied to your clinical note.",
+    "type": "case_response",
+    "read": true,
+    "created_at": "2026-09-21T22:23:07.440Z"
+  }
+]

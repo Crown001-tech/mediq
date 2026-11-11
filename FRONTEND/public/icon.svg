@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="mediq-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#129E6D"/>
+      <stop offset="100%" stop-color="#0B6B4A"/>
+    </linearGradient>
+  </defs>
+  <!-- Background rounded card -->
+  <rect width="32" height="32" rx="7" fill="url(#mediq-grad)"/>
+  <!-- Crisp Mediq 'M' symbol -->
+  <path d="M7 23V9h3.2l5.8 8.2L21.8 9H25v14h-3.2v-8.8l-4.9 6.8h-1.8L10.2 14.2V23H7z" fill="#FFFFFF"/>
+  <!-- Status badge indicator -->
+  <circle cx="25" cy="25" r="3" fill="#34D399" stroke="#0B6B4A" stroke-width="1.2"/>
+</svg>
+
